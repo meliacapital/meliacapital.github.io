@@ -13,4 +13,4 @@ Well, it's named after a tree in my front yard.
 
 The Melia azedarach tree, which is growing too aggressively. The city wants to cut it down and replace it with two smaller trees of my choice.  
 
-`okay` 
+![Melia Capital, LLC]({{ "/assets/melia.jpg" | absolute_url }})
