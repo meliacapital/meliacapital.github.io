@@ -5,12 +5,10 @@ date:   2018-04-26 14:03:44 -0500
 categories: melia update
 ---
 
-`So what's with the name?`
+Malia Capital, LLC officially formed on 04-26-2018.
 
-Well, it's named after a tree in my front yard.
+Named after the genus of flowering trees in the mahogany family.
 
-`A tree`
-
-The Melia azedarach tree, which is growing too aggressively. The city wants to cut it down and replace it with two smaller trees of my choice.  
-
-![Melia Capital, LLC]({{ "/assets/melia.jpg" | absolute_url }})
+![Melia Capital, LLC]({{ "https://upload.wikimedia.org/wikipedia/commons/3/35/Melia_azedarach_01434.jpg" }})
+<a href="https://commons.wikimedia.org/wiki/User:Anna_Anichkova">Anna Anichkova</a>,
+<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
