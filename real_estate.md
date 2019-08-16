@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Real Estate
+permalink: /real_estate/
 ---
 
 Safety, High Returns, and Speed.
