@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        footer {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .content {
+            max-height: 800px;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 10px;
+        }
+        .main {
+            grid-column: 1 / 3;
+            display: flex;
+            justify-content: center;
+        }
+        .illustration {
+            grid-column: 3 / 4;
+        }
+        .logo {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .text {
+            color: rgb(119, 119, 119);
+        }
+        .header {
+            color: rgb(119, 119, 119);
+            font-size: x-large;
+        }
+        .button {
+            background-color: rgb(48, 178, 141);
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 12px;
+        }
+        .copyright {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+  </head>
+  <body>
+    <section>
+      <div class="content">
+        <div class="main">
+            <div class="logo">
+                <img style="max-height: 125px;" src="/assets/Melia_Logo.png"/>
+                <p class="header">
+                    Our passion is financial technology automation.
+                </p>
+                <p class="text">
+                    Stay tuned for the launch of our bugeting app in 2020!
+                </p>
+                <a class="button" style="margin-top: 15px;" href="https://meliacapital.wufoo.com/forms/mhjn6nf0gu0yrt/">
+                    Join our mailing list
+                </a>
+            </div>
+        </div>
+        <div class="illustration">
+            <img style="padding-top: 50px; max-height: 600px;" src="/assets/Melia_Illustration.png"/>
+        </div>
+      </div>
+    </section>
+  </body>
+  <footer>
+    <small class="copyright">&copy; Copyright 2020, Melia Capital, LLC</small>
+</footer>
+</html>
